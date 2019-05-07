@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/scss-to-styled-components/static/css/main.3584a0e9.chunk.css",
+    "main.js": "/scss-to-styled-components/static/js/main.69a08871.chunk.js",
+    "main.js.map": "/scss-to-styled-components/static/js/main.69a08871.chunk.js.map",
+    "runtime~main.js": "/scss-to-styled-components/static/js/runtime~main.dcccba1b.js",
+    "runtime~main.js.map": "/scss-to-styled-components/static/js/runtime~main.dcccba1b.js.map",
+    "static/js/2.21e67013.chunk.js": "/scss-to-styled-components/static/js/2.21e67013.chunk.js",
+    "static/js/2.21e67013.chunk.js.map": "/scss-to-styled-components/static/js/2.21e67013.chunk.js.map",
+    "index.html": "/scss-to-styled-components/index.html",
+    "precache-manifest.6e8e48e16ef19861a26acbccdc9c206f.js": "/scss-to-styled-components/precache-manifest.6e8e48e16ef19861a26acbccdc9c206f.js",
+    "service-worker.js": "/scss-to-styled-components/service-worker.js",
+    "static/css/main.3584a0e9.chunk.css.map": "/scss-to-styled-components/static/css/main.3584a0e9.chunk.css.map",
+    "static/media/logo.svg": "/scss-to-styled-components/static/media/logo.5d5d9eef.svg"
+  }
+}
